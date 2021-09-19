@@ -12,3 +12,5 @@ https://lfeistel.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by William Feistel
+
+### ©️2019 Run Buddy, Inc 
